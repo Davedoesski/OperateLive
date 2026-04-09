@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true" audit="true" db_object_id="9e5298541ba92a10c8a12f49b04bcbf0" extends="task" label="Case" max_length="40" name="sn_customerservice_case" text_index="true" type="collection">
+        <element label="Total approved time" max_length="40" name="x_dttm_customer_0_total_approved_time" type="glide_duration"/>
+        <element label="Additional time approved" max_length="40" name="x_dttm_customer_0_additional_time_approved" type="glide_duration"/>
+        <element label="Effort to date" max_length="40" name="x_dttm_customer_0_effort_to_date" type="glide_duration"/>
+        <element label="Additional time requested" max_length="40" name="x_dttm_customer_0_additional_time_requested" type="glide_duration"/>
+        <element label="Approved effort" max_length="40" name="x_dttm_customer_0_approved_effort" type="glide_duration"/>
+    </element>
+</database>

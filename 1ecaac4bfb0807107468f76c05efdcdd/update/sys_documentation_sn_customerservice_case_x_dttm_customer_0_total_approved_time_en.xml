@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_dttm_customer_0_total_approved_time" label="Total approved time" language="en" table="sn_customerservice_case">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_dttm_customer_0_total_approved_time</element>
+            <help/>
+            <hint/>
+            <label>Total approved time</label>
+            <language>en</language>
+            <name>sn_customerservice_case</name>
+            <plural>Total approved times</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dave.smith</sys_created_by>
+            <sys_created_on>2026-04-09 00:55:29</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Total approved time</sys_name>
+            <sys_package display_value="Customer Service Extension" source="x_dttm_customer_0">1ecaac4bfb0807107468f76c05efdcdd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Customer Service Extension">1ecaac4bfb0807107468f76c05efdcdd</sys_scope>
+            <sys_update_name>sys_documentation_sn_customerservice_case_x_dttm_customer_0_total_approved_time_en</sys_update_name>
+            <sys_updated_by>dave.smith</sys_updated_by>
+            <sys_updated_on>2026-04-09 00:55:29</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

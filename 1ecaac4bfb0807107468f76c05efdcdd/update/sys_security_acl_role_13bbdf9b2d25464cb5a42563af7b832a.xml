@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>dave.smith</sys_created_by>
+        <sys_created_on>2026-04-09 00:34:39</sys_created_on>
+        <sys_id>13bbdf9b2d25464cb5a42563af7b832a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_customerservice_case.total_approved_time.sn_customerservice_manager</sys_name>
+        <sys_package display_value="Customer Service Extension" source="x_dttm_customer_0">1ecaac4bfb0807107468f76c05efdcdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Service Extension">1ecaac4bfb0807107468f76c05efdcdd</sys_scope>
+        <sys_security_acl display_value="sn_customerservice_case.total_approved_time">e45ec0b389ec4270aaa9e7307503f3b3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_13bbdf9b2d25464cb5a42563af7b832a</sys_update_name>
+        <sys_updated_by>dave.smith</sys_updated_by>
+        <sys_updated_on>2026-04-09 00:34:39</sys_updated_on>
+        <sys_user_role display_value="sn_customerservice_manager" name="sn_customerservice_manager">259e90f6c3223100d6d210c422d3aefb</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

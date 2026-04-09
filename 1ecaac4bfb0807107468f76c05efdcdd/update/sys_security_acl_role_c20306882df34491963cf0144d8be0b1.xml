@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>dave.smith</sys_created_by>
+        <sys_created_on>2026-04-09 00:34:39</sys_created_on>
+        <sys_id>c20306882df34491963cf0144d8be0b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_customerservice_case.additional_time_requested.admin</sys_name>
+        <sys_package display_value="Customer Service Extension" source="x_dttm_customer_0">1ecaac4bfb0807107468f76c05efdcdd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer Service Extension">1ecaac4bfb0807107468f76c05efdcdd</sys_scope>
+        <sys_security_acl display_value="sn_customerservice_case.additional_time_requested">52861ea530954191a1032c533ce4ef69</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c20306882df34491963cf0144d8be0b1</sys_update_name>
+        <sys_updated_by>dave.smith</sys_updated_by>
+        <sys_updated_on>2026-04-09 00:34:39</sys_updated_on>
+        <sys_user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
