@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Customer Service" source="sn_customerservice">51d811fad7223100b7490ee60e61034f</dependency>
+        <min_version>29.0.19</min_version>
+        <sys_created_by>dave.smith</sys_created_by>
+        <sys_created_on>2026-04-09 00:51:41</sys_created_on>
+        <sys_id>34663843fb8807107468f76c05efdc7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Customer Service Extension" source="x_dttm_customer_0">1ecaac4bfb0807107468f76c05efdcdd</sys_package>
+        <sys_updated_by>dave.smith</sys_updated_by>
+        <sys_updated_on>2026-04-09 00:51:41</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

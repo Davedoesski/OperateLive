@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_dttm_customer_0_additional_time_requested" label="Additional time requested" language="en" table="sn_customerservice_case">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_dttm_customer_0_additional_time_requested</element>
+            <help/>
+            <hint/>
+            <label>Additional time requested</label>
+            <language>en</language>
+            <name>sn_customerservice_case</name>
+            <plural>Additional time requested</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dave.smith</sys_created_by>
+            <sys_created_on>2026-04-09 00:54:04</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Additional time requested</sys_name>
+            <sys_package display_value="Customer Service Extension" source="x_dttm_customer_0">1ecaac4bfb0807107468f76c05efdcdd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Customer Service Extension">1ecaac4bfb0807107468f76c05efdcdd</sys_scope>
+            <sys_update_name>sys_documentation_sn_customerservice_case_x_dttm_customer_0_additional_time_requested_en</sys_update_name>
+            <sys_updated_by>dave.smith</sys_updated_by>
+            <sys_updated_on>2026-04-09 00:54:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
